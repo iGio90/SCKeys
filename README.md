@@ -4,4 +4,7 @@ Clash of Clans:
 Boom Beach:
 * (31.146) f6e07c02b728dfee9a849204b2ac1a3004ae3ce191092ae9ae5188db41768528
 
+Hay Day:
+* (1.35.114) beb655127409245639b2ac70f026089531676c107f11a0648958ed16f5fff410
+
 Discord: https://discord.gg/hTVhy3V
